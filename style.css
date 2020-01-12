@@ -239,8 +239,9 @@
         }
         
         .header-first {
-            color: #138134;
+            color: #00a79d;
             padding-top: 80px;
+            text-align: center;
             text-decoration: line-through;
         }
         
@@ -583,7 +584,7 @@
         @media (min-width:900px) {
             .un-header .un-logo {
                 height: 80px;
-                margin: 40px 0 10px 45px
+                margin: 10px 0px 10px 20px
             }
         }
         
@@ -789,7 +790,7 @@
         @media (min-width:900px) {
             .header-img {
                 max-width: 70vw;
-                margin-bottom: -40px
+                margin-bottom: -11px;
             }
             .intro {
                 min-height: 85vh
