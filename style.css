@@ -44,7 +44,7 @@
             a,
             a:active,
             a:hover {
-                color: #005689
+                color: #00a79d
             }
             
             a:hover {
@@ -54,9 +54,9 @@
             .notes a,
             .un-header__langs a,
             p a {
-                text-decoration: none
+                text-decoration: none;
+                color: grey;
             }
-            
             .interactive {
                 width: 100%;
                 box-sizing: border-box;
@@ -486,7 +486,7 @@
             }
             
             .un-header__langs a:hover {
-                color: inherit;
+                color: #00a79d;
                 opacity: .7
             }
             
